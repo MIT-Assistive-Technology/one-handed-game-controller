@@ -1,17 +1,6 @@
 # :video_game: **One-Handed Game Controller (Left-Handed)**
 
-Please refer to [this handout]([url]([https://docs.google.com/document/d/1R1JeNCjT1L_K-hidx_33zdM9vNTuleeNFn41tkV1ZXg/edit?tab=t.0](https://docs.google.com/document/d/1R1JeNCjT1L_K-hidx_33zdM9vNTuleeNFn41tkV1ZXg/edit?usp=sharing)) for detailed instruction:
-
-## 🛠️ **Tools and Materials**
-- 3D Printer
-- Soldering Kit
-- 1 Arduino Micro
-- 2 Thumb Joysticks (KY-023)
-- 16 Two-Pin Buttons
-- Electrical Wire Cables
-- PLA
-- 1 ¾ in machine screws size 2-56
-- (optional) Foam tape
+Please refer to [this handout]([url]([https://docs.google.com/document/d/1R1JeNCjT1L_K-hidx_33zdM9vNTuleeNFn41tkV1ZXg/edit?tab=t.0](https://docs.google.com/document/d/1R1JeNCjT1L_K-hidx_33zdM9vNTuleeNFn41tkV1ZXg/edit?usp=sharing))) for detailed instruction and materials:
 
 ## :memo: **Instructions Overview**
 1. Download files
@@ -35,7 +24,3 @@ Our team aims to develop a comfortable and accessible game controller designed s
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
 ![SOLIDWORKS](https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![KiCad Badge](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=fff&style=for-the-badge)
-
-
-## ✍️ Acknowledgements
-To be completed
