@@ -1,5 +1,7 @@
 # :video_game: **One-Handed Game Controller (Left-Handed)**
 
+Please refer to [this handout]([url]([https://docs.google.com/document/d/1R1JeNCjT1L_K-hidx_33zdM9vNTuleeNFn41tkV1ZXg/edit?tab=t.0](https://docs.google.com/document/d/1R1JeNCjT1L_K-hidx_33zdM9vNTuleeNFn41tkV1ZXg/edit?usp=sharing)) for detailed instruction:
+
 ## 🛠️ **Tools and Materials**
 - 3D Printer
 - Soldering Kit
@@ -11,14 +13,13 @@
 - 1 ¾ in machine screws size 2-56
 - (optional) Foam tape
 
-## :memo: **Instructions**
-1. Download ___ files
-2. 3D print ___ files
-4. Print PCB
-5. Solder
+## :memo: **Instructions Overview**
+1. Download files
+2. 3D print files
+4. Print/Order PCBs
+5. Solder Electronic Components
 6. Upload code to the Arduino
 7. Assemble
-8. TO DO
 
 ## :mag_right: Problem Statement
 **Modern game controllers do not accommodate for one-handed users.**
